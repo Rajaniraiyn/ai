@@ -1,5 +1,11 @@
 # ai
 
+## 3.1.13
+
+### Patch Changes
+
+- 60117c9: dependencies (ai/ui): add React 18.3 and 19 support (peer dependency)
+
 ## 3.1.12
 
 ### Patch Changes
